@@ -1,0 +1,6 @@
+{
+  "name": "YOKAIO Whitelist Portal",
+  "description": "Premium Robinhood NFT whitelist application portal and launchpad for the high-end YOKAIO collections, inspired by anime-style elite fighters, mercenaries, and outcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
